@@ -1,0 +1,36 @@
+
+/* Main */
+.main {
+    margin-top: 2%;
+    margin-left: 33%;
+    font-size: 28px;
+    padding: 0 10px;
+    width: 40%;
+    /* border: 2px solid red; */
+}
+
+.main h2 {
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.main .card {
+    background-color: #fff;
+    border-radius: 18px;
+    box-shadow: 1px 1px 8px 0 grey;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 20px 0 20px 50px;
+}
+
+.main .card table {
+    border: none;
+    font-size: 16px;
+    height: 270px;
+    width: 60%;
+    margin-left:15%;
+    /* border:2px solid green; */
+}
